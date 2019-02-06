@@ -17,7 +17,7 @@ Three bisinuess questions were asked and answered:
 
 ## Results of the analysis
 
-Results and discussion were published on the below link: 
+Results and discussion were published on the below link: https://medium.com/@swati.daskm/data-science-dive-into-seattle-and-boston-airbnb-data-9be26fa80f55
    
 In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found many interesting phenomenom:
 - We gathered the Boston and Seattle Airbnb data, and compare the two dataset.
