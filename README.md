@@ -1,2 +1,4 @@
-# Data Science
-Udacity Data science Project
+# Data Science - Dive Into Boston and Seattle Airbnb Data
+Project Motivation
+
+
